@@ -28,3 +28,4 @@ I am 30. After school, I studied at the university, did not finish it and went i
 
 ### Languages:
 - Russian – native
+- English – basic
